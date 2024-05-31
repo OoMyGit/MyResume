@@ -1,0 +1,11 @@
+{
+    "aboutDescription": "I'm an Indonesian student who is eager to learn a lot of challenging things. Currently, I am pursuing my Bachelor's degree in Information System and interested in Blockchain Technology.",
+    "portfolio": [
+      {
+        "projectName": "My First Web App",
+        "description": "This is a web application I developed during my second year of college.",
+        "technologiesUsed": ["HTML", "CSS", "JavaScript"]
+      }
+    ]
+  }
+  
